@@ -1,5 +1,9 @@
 ## Thiago Alves Feitosa
 
+
+Me chamo Thiago, tenho 23 anos, moro na cidade de Marília com minha mãe, irma e cachorro. Atualmente estou cursando Sistemas de Informação (6 termo) na FIAP. Escolhi a área de T.I. pois sempre gostei e me interessei por computadores, internet, jogos e cada vez vejo mais áreas que gosto. Pensando em alguns pontos fortes posso citar que: Sou bom com trabalho em equipe: faço parte da atlética e sempre resolvemos os problemas de forma conjunta; Compromisso com a organização: como trabalho com vendas autônomas nos marketplaces, preciso manter meus horários, recursos, anúncios e financeiro em dias e organizados para aumentar a produtividade e dar conta da faculdade e vida pessoal; Exercito a criatividade: como hobbie filmo e edito vídeos de assuntos variados; Facilidade na resolução de problemas: Por conta da diabetes tipo 1 (fui diagnosticado com 14 anos), ao longo do dia lido com inúmeros problemas relacionados com contagem de carboidratos, compra de insumos e atividade física. Aprendi com isso a ver os problemas como aliados para minha evolução, estou sempre disposto a resolve-los e supera-los. Mas também tenho pontos que precisam ser desenvolvidos, desde que entrei na graduação, já tive muito progresso, mas ainda preciso desenvolver mais e estou procurando um estágio para isso.
+
+📫meu linkedinÇ https://www.linkedin.com/in/thiago-alves-4b4a0a203/
 <!--
 **ThiagoAlvesFeitosa/ThiagoAlvesFeitosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
